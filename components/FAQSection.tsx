@@ -29,11 +29,11 @@ export default function FAQSection({ activeSection, setActiveSection, scrollRef 
     },
     {
       question: "Can I cancel my subscription anytime?",
-      answer: "Yes, you can cancel your subscription at any time. There are no long-term contracts or cancellation fees. When you cancel, you'll continue to have access to your plan features until the end of your current billing period.",
+      answer: "Yes, you can cancel your subscription at any time. There are no long-term contracts or cancellation fees. When you cancel, you&apos;ll continue to have access to your plan features until the end of your current billing period.",
     },
     {
       question: "Do you offer a free trial?",
-      answer: "Yes! We offer a 14-day free trial for all plans. No credit card required. You'll have full access to all features of your chosen plan during the trial period, so you can explore everything Fintrixity has to offer.",
+      answer: "Yes! We offer a 14-day free trial for all plans. No credit card required. You&apos;ll have full access to all features of your chosen plan during the trial period, so you can explore everything Fintrixity has to offer.",
     },
     {
       question: "How often is my data updated?",
@@ -41,7 +41,7 @@ export default function FAQSection({ activeSection, setActiveSection, scrollRef 
     },
     {
       question: "What happens if I exceed my plan limits?",
-      answer: "If you approach your plan limits, we'll notify you in advance. You can either upgrade to a higher plan or purchase additional capacity. We'll work with you to find the best solution that fits your needs without disrupting your workflow.",
+      answer: "If you approach your plan limits, we&apos;ll notify you in advance. You can either upgrade to a higher plan or purchase additional capacity. We&apos;ll work with you to find the best solution that fits your needs without disrupting your workflow.",
     },
   ];
 
@@ -138,7 +138,7 @@ export default function FAQSection({ activeSection, setActiveSection, scrollRef 
             </h1>
             
             <p className="text-white/70 text-base md:text-xl max-w-3xl mx-auto leading-relaxed">
-              Find answers to common questions about Fintrixity. Can't find what you're looking for? Contact our support team.
+              Find answers to common questions about Fintrixity. Can&apos;t find what you&apos;re looking for? Contact our support team.
             </p>
           </div>
 
@@ -188,7 +188,7 @@ export default function FAQSection({ activeSection, setActiveSection, scrollRef 
 
           <div className="mt-8 md:mt-12 text-center">
             <p className="text-white/70 mb-4 md:mb-6 text-sm md:text-base">
-              Still have questions? We're here to help.
+              Still have questions? We&apos;re here to help.
             </p>
             <button className="bg-[#FF6B35] text-white px-6 md:px-10 py-3 md:py-4 rounded-lg text-sm md:text-base font-semibold hover:bg-[#E55A2B] transition-colors shadow-lg shadow-[#FF6B35]/30">
               Contact Support
